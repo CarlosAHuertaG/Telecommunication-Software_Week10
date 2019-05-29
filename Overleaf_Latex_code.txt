@@ -1,0 +1,76 @@
+\documentclass{book}
+
+% \documentclass{article}
+
+% \usepackage[utf8]{inputenc}
+
+
+
+\title{My 411-01 Project}
+
+\author{Carlos A. Huerta Garcia}
+
+\date{April 02, 2019}
+
+
+
+\begin{document}
+
+
+
+\maketitle
+
+
+
+\section*{Introduction}
+
+\chapter{Teletraffic}
+
+\section{Methods}
+
+\subsection{Math Methods}
+
+
+
+Erlang A formula is about the Traffic Model:
+
+
+
+
+$$\rho=\Lambda/\mu$$
+
+
+
+$$\rho=\frac{\Lambda}{\mu}$$
+
+
+
+\subsection{Social Methods}
+
+\section{Materials}
+
+\section{Research}
+
+\section{Analysis}
+
+\section{Discussion}
+
+\chapter{Theory of Signals}
+
+\section{Methods}
+
+\subsection{Math Methods}
+
+\subsection{Social Methods}
+
+\section{Materials}
+
+\section{Research}
+
+\section{Analysis}
+
+\section{Discussion}
+
+
+
+\end{document}
